@@ -20,3 +20,19 @@ Working for a fictional art magazine client, the company wants to analyze trends
 For this case study, we'll touch on each question to give an overall idea for further actions.
 
 ## Step 2: Prepare
+### Data Source
+As mentioned before, the data source is from the art auction dataset collected by *Kangsan Lee et al.*. The [paper](https://www.nature.com/articles/s41598-024-60957-z) includes a link to the [data source](https://springernature.figshare.com/articles/dataset/Buying_a_Work_of_Art_or_an_Artist_Exploring_the_Impact_of_Visual_and_Social_Features_on_Art_Prices/24746268) that contains 9 files. One of which includes the *transactions.csv* which will be the focus of this analysis.
+
+This is a public data source that includes 34200 records of art auctions which contains market information about the artworks, artists, and regions of where the art originated. This includes around 590 artists and data about the pieces ranging from 1996-2012. There is also information about the ages of the artwork, prices, and art auction houses of where the pieces are sold.
+
+### Considerations/Limitations
+While the data is comprehensive in listing out key features of the art auction dataset, it should be noted that there are some considerations when interpreting the results:
+- This dataset only considers artists that are currently alive and within the top 1000 according to [ArtFacts.net](ArtFacts.net). As such, having a comprehensive table would only be limited to living artists and well-known to the general public.
+- The data only ranges from 1996-2012 so the data may not be current and is only within this time range.
+- When imported to a spreadsheet, some values are not necessarily numerical/or contains errors. One notable example includes how the table for the price_usd in USD also contains '.' values instead of N/A or 0.
+- In addition to artists that are well known, this dataset also excludes information about artists without a biography or public information about their careers.
+- One of the columns did contain links to images but since our analysis is mostly featured on identifying trends and patterns in numerical/categorical data, that column was deleted to be consistent.
+- Column names did not initially follow the proper formatting guidelines so some time would be spent to ensure formatting issues will be taken care of.
+
+## Step 3: Process
+
