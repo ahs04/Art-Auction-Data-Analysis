@@ -27,7 +27,7 @@ This is a public data source that includes 34200 records of art auctions which c
 
 ### Considerations/Limitations
 While the data is comprehensive in listing out key features of the art auction dataset, it should be noted that there are some considerations when interpreting the results:
-- This dataset only considers artists that are currently alive and within the top 1000 according to [ArtFacts.net](ArtFacts.net). As such, having a comprehensive table would only be limited to living artists and well-known to the general public.
+- This dataset only considers artists that are currently alive and within the top 1000 according to [ArtFacts.net](https://artfacts.net/). As such, having a comprehensive table would only be limited to living artists and well-known to the general public.
 - The data only ranges from 1996-2012 so the data may not be current and is only within this time range.
 - When imported to a spreadsheet, some values are not necessarily numerical/or contains errors. One notable example includes how the table for the price_usd in USD also contains '.' values instead of N/A or 0.
 - In addition to artists that are well known, this dataset also excludes information about artists without a biography or public information about their careers.
