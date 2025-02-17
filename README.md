@@ -116,4 +116,8 @@ We are going to analyze the data to answer the following questions.
 - What regions have been identified as highest revenue for art auction transactions?
 - Is there a correlation between different auction houses and revenue?
 
+### Trends of Art Genres
+First off, let us see overall the trends in art genres over time.
+
+![Revenue Trends by Year of Art Genres]([http://url/to/img.png](https://github.com/ahs04/Art-Auction-Data-Analysis/blob/main/dataVisuals/q1_revenueByGenre.png))
 
