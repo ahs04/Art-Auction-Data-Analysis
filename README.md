@@ -124,5 +124,5 @@ First off, let us see overall the trends in art genres over time.
 Based on overall trends, paintings and sculptures make up a large majority of the revenue from auction houses over time. Both experience growth from 1995-2008 and 2009-2015. While 2016 does show a dramatic dip in revenue, this is due to limited data collected in 2016. At its peak, paintings represent over $1 billion dollars in sales and sculptures made up more than $250 million dollars in revenue.
 
 This is also apparent when distributing revenue as percentages over time.
-![Revenue Trends by Year of Art Genres](dataVisuals/q1_SalesVolume.png)
+![Revenue Trends by Year of Art Genres in Percentage](dataVisuals/q1_SalesVolume.pdf)
 
