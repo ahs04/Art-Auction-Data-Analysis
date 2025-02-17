@@ -151,7 +151,7 @@ There are two major groups in approaching revenue for the auction houses. If the
 
 
 If we were to focus on each of the art houses it does reveal a bit more about the trends in individual pieces as data points.
-![Art House Distribution](dataVisuals/q3_distributionOfArtPrices)
+![Art House Distribution](dataVisuals/q3_distributionOfArtPrices.png)
 
 Listed are the top 10 auction houses listed by total revenue. Each of the data points represents an art piece that is based on the price sold and distributed across the graph. 
 
