@@ -124,5 +124,45 @@ First off, let us see overall the trends in art genres over time.
 Based on overall trends, paintings and sculptures make up a large majority of the revenue from auction houses over time. Both experience growth from 1995-2008 and 2009-2015. While 2016 does show a dramatic dip in revenue, this is due to limited data collected in 2016. At its peak, paintings represent over $1 billion dollars in sales and sculptures made up more than $250 million dollars in revenue.
 
 This is also apparent when distributing revenue as percentages over time.
-![Revenue Trends by Year of Art Genres in Percentage](dataVisuals/q1_SalesVolume.pdf)
+![Revenue Trends by Year of Art Genres in Percentage](dataVisuals/q1_salesVolume.pdf)
 
+When it comes to yearly revenue, paintings by far take up a significant chunk of sales volume with over 50% of revenue coming from that medium throughout the recorded time periods. It is overall a positive trend from 1995 to 2015 barring a dip in 2008. 
+
+### Regions and Art Transactions
+If we were to analyze revenue by locations, there is a noticeable gap between the top 2 locations and the rest.
+
+![Region Performance](dataVisuals/q2_revenueByLocation.pdf)
+
+As indicated, New York and London dominates the art market by contributing at least $8 billion dollars combined. We can infer this due to the major art houses in the area which includes Sotheby's and Christie's. This is not to downplay the other locations as areas such as Paris and Hong Kong generates substantive revenue based on its historical art market and an Asian hub for sales respectively. While New York and London takes up a significant portion of the total revenue, secondary markets including Paris, Hong Kong, Cologne, India, and much more can be inferred of having influence in both regional sales and trends.
+
+### Art House and Revenue Distribution
+
+Let's look at how each auction house is distributed based on the number of art pieces and total revenue.
+
+![Art House Distribution](dataVisuals/q3_auctionHousebyNumberofPieces)
+
+From the graph itself, we used a scatterplot to show the relationship in quantifying the number of art pieces and total revenue and to see if there is a correlation. There are a few takeaways from the chart. Both Sotheby's and Christie's are high performers in both the number of pieces and revenue. Both auction houses have over 18000 pieces each sold and over $3.5 billion dollars in revenue with Sotheby slightly ahead. 
+
+There is a surprise performer in Phillips as while it has few art pieces listed in the market, its revenue is significantlly large to be considered as a major contributor to the total revenue. 
+
+The far majority however in the bottom left cluster of the graph handles far fewer art pieces and generate lower revenue. So we can infer that these auction houses may focus on more niche mediums, artists that are not well known in the art community, or focus on lower-prices artworks. 
+
+There are two major groups in approaching revenue for the auction houses. If there is an auction house with significant revenue and resources such as Sotheby's and Christie's, they are more likely to have a large collection of artworks and can make up a large portion of the revenue focusing on that. If there is a smaller auction house, the strategy would be to focus on local artists and mediums which would lead to smaller revenues. Phillips is the exception as it generates higher revenue from fewer pieces but probably focus more on well-known artists or high-profile sales.
+
+
+If we were to focus on each of the art houses it does reveal a bit more about the trends in individual pieces as data points.
+![Art House Distribution](dataVisuals/q3_distributionOfArtPrices)
+
+Listed are the top 10 auction houses listed by total revenue. Each of the data points represents an art piece that is based on the price sold and distributed across the graph. 
+
+Already, Sotheby's and Christie's are listed as having the most data points and range of prices with some prices going over $30 million dollars. However, when compared to the rest of the top 10 auction houses, the vast majority of artworks are either at or below the $1 million dollar range. 
+
+This is reinforced by the median price of each auction house as this verifies that only a few locations make a substantial portion of overall prices and high-value sales.
+
+## Conclusion
+For our client for the art magazine, we can showcase data on the art transactions and provide some key findings to help suggest some reccomendations for the marketing of the magazine.
+
+Reccomendations:
+1. Since Sotheby's and Christi'es dominate a significant portion of the art market, focus significantly on content or art pieces within those auction houses to appeal to major hub cities and a broad audience.
+2. If local editions of the magazine are available, combining the major auction hosues with regional specific art auctions may provide long term value by showcasing local engagement with the art community and broader relevance of artists.
+3. Paintings and sculptures make up the largest share of the revenue and that would be the major focus for publication. However, when well-known artists or a high-profile sales occurs, it should also be highlighted when relevant either for a specific theme, event, or focus in the media.
