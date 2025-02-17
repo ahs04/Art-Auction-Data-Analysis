@@ -119,5 +119,5 @@ We are going to analyze the data to answer the following questions.
 ### Trends of Art Genres
 First off, let us see overall the trends in art genres over time.
 
-![Revenue Trends by Year of Art Genres]([dataVisuals/q1_revenueByGenre.png])
+![Revenue Trends by Year of Art Genres]([/dataVisuals/q1_revenueByGenre.png])
 
