@@ -139,7 +139,7 @@ As indicated, New York and London dominates the art market by contributing at le
 
 Let's look at how each auction house is distributed based on the number of art pieces and total revenue.
 
-![Art House Distribution](dataVisuals/q3_auctionHousebyNumberofPieces)
+![Art House Distribution](dataVisuals/q3_auctionHousebyNumberofPieces.png)
 
 From the graph itself, we used a scatterplot to show the relationship in quantifying the number of art pieces and total revenue and to see if there is a correlation. There are a few takeaways from the chart. Both Sotheby's and Christie's are high performers in both the number of pieces and revenue. Both auction houses have over 18000 pieces each sold and over $3.5 billion dollars in revenue with Sotheby slightly ahead. 
 
