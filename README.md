@@ -131,7 +131,7 @@ When it comes to yearly revenue, paintings by far take up a significant chunk of
 ### Regions and Art Transactions
 If we were to analyze revenue by locations, there is a noticeable gap between the top 2 locations and the rest.
 
-![Region Performance](dataVisuals/q2_revenueByLocation.pdf)
+![Region Performance](dataVisuals/q2_revenueByLocation.png)
 
 As indicated, New York and London dominates the art market by contributing at least $8 billion dollars combined. We can infer this due to the major art houses in the area which includes Sotheby's and Christie's. This is not to downplay the other locations as areas such as Paris and Hong Kong generates substantive revenue based on its historical art market and an Asian hub for sales respectively. While New York and London takes up a significant portion of the total revenue, secondary markets including Paris, Hong Kong, Cologne, India, and much more can be inferred of having influence in both regional sales and trends.
 
